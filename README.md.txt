@@ -1,4 +1,5 @@
 #Personal Notebook Manager
+# GOOGLE COLAB
 
 This is a Python console-based notebook application.
 You can add, view, search, filter, edit, delete and sort notes.
@@ -12,4 +13,5 @@ Use the menu and choosing a number from the options:
 (5) Edit a note
 (6) Delete a note
 (7) Sort notes
+
 (0) Exit
