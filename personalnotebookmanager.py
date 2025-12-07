@@ -202,7 +202,7 @@ def delete_note(notes):
 
     notes.pop(index)
     save_notes(notes)
-    print(green + "\n✔ Note deleted successfully!\n" + reset)
+    print(green + "\n Note deleted successfully!\n" + reset)
 
 
 # --------------------- Main loop ---------------------
